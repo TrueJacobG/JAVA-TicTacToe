@@ -1,2 +1,2 @@
 ### JAVA - TicTacToe
-#####Console Game - Tic Tac Toe
+##### Console Game - Tic Tac Toe
